@@ -5,4 +5,4 @@
 2.  *Estimate monthly inflation  by economic Modelling using the New Keynesian Phillips Curve*
 
 **Compare which model is a better fit to actual data using Residual Mean Squared Error as the estimator. 
-We have Monthly Inflation Rate and Bank Rate data of India for 60 years spanning 1960-2020.**
+We have worked with Monthly Inflation Rate and Bank Rate data of India for 60 years spanning 1960-2020.**
