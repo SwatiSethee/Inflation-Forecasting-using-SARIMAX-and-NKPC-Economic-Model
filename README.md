@@ -1,2 +1,8 @@
 # Inflation-Forecasting-using-SARIMAX-and-NKPC-Economic-Model
-The notebooks include forecasting Indian monthly inflation rates usuing SARIMAX Model and Economic Modelling using NKPC
+### Objective of the Project:
+
+1.	*Use SARIMAX Modelling to forecast monthly inflation rate in India with Bank rate as the exogenous variable*
+2.  *Estimate monthly inflation  by economic Modelling using the New Keynesian Phillips Curve*
+
+**Compare which model is a better fit to actual data using Residual Mean Squared Error as the estimator. 
+We have Monthly Inflation Rate and Bank Rate data of India for 60 years spanning 1960-2020.**
